@@ -10,5 +10,5 @@ package proyectoprueba;
  * @author Gabriel
  */
 public class Computadora {
-    
+    private String marca;
 }
