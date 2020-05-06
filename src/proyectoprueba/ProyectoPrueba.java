@@ -18,4 +18,11 @@ public class ProyectoPrueba {
         // TODO code application logic here
     }
     
+    
+    
+    int funcionSumar(int num1, int num2){
+        private int result;
+        result = num1 + num2;
+        return result;
+    }
 }
