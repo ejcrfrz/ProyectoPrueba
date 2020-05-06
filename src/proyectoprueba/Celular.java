@@ -41,5 +41,5 @@ public class Celular {
     
     private String camara;
     private String pantalla;
-    
+    String sonido;
 }
